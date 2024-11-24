@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjektNIOP", "ProjektNIOP\ProjektNIOP.csproj", "{05FF34DC-E0C2-415A-95B5-F43246C5CBAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05FF34DC-E0C2-415A-95B5-F43246C5CBAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FF34DC-E0C2-415A-95B5-F43246C5CBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FF34DC-E0C2-415A-95B5-F43246C5CBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FF34DC-E0C2-415A-95B5-F43246C5CBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AF50A25-6EE8-4A96-8CD2-0BBAB53BB677}
+	EndGlobalSection
+EndGlobal
